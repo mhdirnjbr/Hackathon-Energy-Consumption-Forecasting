@@ -1,4 +1,4 @@
-# Hackathon3
+# Hi! PARIS Hackathon Organised By HEC Paris & Institut Polytechnique de Paris
 
 ## Energy Consumption Forecasting with ML
 
